@@ -13,7 +13,7 @@
 1. Framework VueJS
 1. html e css para desenvolvimento a interface gráfica;
 1. Live server para levantar a aplicação;
-1. google chrome para visualização da aplicação e teste;
+1. Google chrome para visualização da aplicação e testes;
 
 
 

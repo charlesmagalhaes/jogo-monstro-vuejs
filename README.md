@@ -24,5 +24,5 @@
 
 ## Navegar na aplicação
 
-Você poder clicar no botão de ataque comum, especial e cura.
+Clicar no botão iniciar, após fica disponível três botões ataque comum, especial e cura. E um último botão para desistir do jogo.
 
